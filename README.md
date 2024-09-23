@@ -54,9 +54,12 @@ bash run_experiments.sh dataset_name batch_size
 
 Currently, this repository is mantained by:
 
-- Matteo Attimonelli (matteo.attimonelli@poliba.it)
-- Danilo Danese (danilo.danese@poliba.it)
-- Angela Di Fazio (angela.difazio@poliba.it)
-- Daniele Malitesta (daniele.malitesta@poliba.it)
-- Claudio Pomo (claudio.pomo@poliba.it)
-- Tommaso Di Noia (tommaso.dinoia@poliba.it)
+- Matteo Attimonelli* (matteo.attimonelli@poliba.it)
+- Danilo Danese* (danilo.danese@poliba.it)
+- Angela Di Fazio* (angela.difazio@poliba.it)
+- Daniele Malitesta** (daniele.malitesta@poliba.it)
+- Claudio Pomo* (claudio.pomo@poliba.it)
+- Tommaso Di Noia* (tommaso.dinoia@poliba.it)
+
+\* _Politecnico Di Bari, Bari, Italy_
+\*\* _Université Paris-Saclay, CentraleSupélec, Inria, France_
