@@ -57,7 +57,7 @@ Currently, this repository is mantained by:
 - Matteo Attimonelli* (matteo.attimonelli@poliba.it)
 - Danilo Danese* (danilo.danese@poliba.it)
 - Angela Di Fazio* (angela.difazio@poliba.it)
-- Daniele Malitesta** (daniele.malitesta@poliba.it)
+- Daniele Malitesta** (daniele.malitesta@centralesupelec.fr)
 - Claudio Pomo* (claudio.pomo@poliba.it)
 - Tommaso Di Noia* (tommaso.dinoia@poliba.it)
 
