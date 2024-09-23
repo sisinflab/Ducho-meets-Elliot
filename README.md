@@ -62,4 +62,5 @@ Currently, this repository is mantained by:
 - Tommaso Di Noia* (tommaso.dinoia@poliba.it)
 
 \* _Politecnico Di Bari, Bari, Italy_
+
 \*\* _Université Paris-Saclay, CentraleSupélec, Inria, France_
