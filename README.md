@@ -127,7 +127,7 @@ Currently, this repository is mantained by:
 
 If you use our work, please use the following BibTeX entry.
 
-```
+```bibtex
 @article{multimod-recs-bench-ducho,
 title = {Large-scale benchmarks for multimodal recommendation with Ducho},
 journal = {Expert Systems with Applications},
