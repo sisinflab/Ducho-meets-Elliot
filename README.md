@@ -121,3 +121,23 @@ Currently, this repository is mantained by:
 \* _Politecnico Di Bari, Bari, Italy_
 
 \*\* _Université Paris-Saclay, CentraleSupélec, Inria, France_
+
+
+## Citing _𝘓𝘢𝘳𝘨𝘦-𝘴𝘤𝘢𝘭𝘦 𝘣𝘦𝘯𝘤𝘩𝘮𝘢𝘳𝘬𝘴 𝘧𝘰𝘳 𝘮𝘶𝘭𝘵𝘪𝘮𝘰𝘥𝘢𝘭 𝘳𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘋𝘶𝘤𝘩𝘰_
+
+If you use our work, please use the following BibTeX entry.
+
+```
+@article{multimod-recs-bench-ducho,
+title = {Large-scale benchmarks for multimodal recommendation with Ducho},
+journal = {Expert Systems with Applications},
+volume = {307},
+pages = {130813},
+year = {2026},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.130813},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417425044288},
+author = {Matteo Attimonelli and Danilo Danese and Angela {Di Fazio} and Daniele Malitesta and Claudio Pomo and Tommaso {Di Noia}},
+keywords = {Multimodal recommendation, Benchmarking, Large multimodal models},
+}
+```
