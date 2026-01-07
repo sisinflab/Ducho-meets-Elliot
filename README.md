@@ -1,8 +1,8 @@
-# Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation
+# Large-scale benchmarks for multimodal recommendation with Ducho
 
 <img src="https://github.com/sisinflab/Ducho-meets-Elliot/blob/master/framework.png?raw=true"  width="1000">
 
-Official repository for the paper _**Ducho meets Elliot**: Large-scale Benchmarks for Multimodal Recommendation_. The codebase was developed and tested on Ubuntu 22.04 LTS; however, the experiments can be executed on other operating systems with the necessary adjustments to environment variables, activation of Python environments, or configuration of additional utilities.
+Official repository for the paper _𝘓𝘢𝘳𝘨𝘦-𝘴𝘤𝘢𝘭𝘦 𝘣𝘦𝘯𝘤𝘩𝘮𝘢𝘳𝘬𝘴 𝘧𝘰𝘳 𝘮𝘶𝘭𝘵𝘪𝘮𝘰𝘥𝘢𝘭 𝘳𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘋𝘶𝘤𝘩𝘰_, accepted in 𝗘𝘅𝗽𝗲𝗿𝘁 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝘄𝗶𝘁𝗵 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀. The codebase was developed and tested on Ubuntu 22.04 LTS; however, the experiments can be executed on other operating systems with the necessary adjustments to environment variables, activation of Python environments, or configuration of additional utilities.
 
 ## Installation 
 
