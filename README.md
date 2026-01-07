@@ -7,7 +7,7 @@ Official repository for the paper _𝘓𝘢𝘳𝘨𝘦-𝘴𝘤𝘢𝘭𝘦 �
 ## Installation 
 
 ### Clone the repo
-This repository integrates the **Ducho** and **Elliot** frameworks. The [Ducho framework](https://github.com/sisinflab/Ducho.git) is hosted in a separate GitHub repository. To properly clone the **Ducho-meets-Elliot** repository, please use the following command:
+This repository integrates the **Ducho** and **Elliot** frameworks. The [Ducho framework](https://github.com/sisinflab/Ducho.git) is hosted in a separate GitHub repository. To properly clone this repository, please use the following command:
 
 ```sh
 git clone --recursive https://github.com/sisinflab/Ducho-meets-Elliot.git
